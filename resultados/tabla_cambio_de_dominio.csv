@@ -1,0 +1,10 @@
+sistema,entrenamiento,PhraseBank,Twitter
+Embeddings + reg. logística,las dos fuentes,0.897,0.76
+Embeddings + reg. logística,solo phrasebank,0.911,0.671
+Embeddings + reg. logística,solo twitter,0.828,0.771
+TF-IDF + SVM lineal,las dos fuentes,0.842,0.768
+TF-IDF + SVM lineal,solo phrasebank,0.821,0.456
+TF-IDF + SVM lineal,solo twitter,0.584,0.762
+TF-IDF + reg. logística,las dos fuentes,0.835,0.76
+TF-IDF + reg. logística,solo phrasebank,0.828,0.443
+TF-IDF + reg. logística,solo twitter,0.604,0.759
