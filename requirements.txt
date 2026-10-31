@@ -1,0 +1,14 @@
+# Colab ya trae numpy, pandas, scikit-learn, scipy, matplotlib, torch y transformers
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+requests
+torch
+transformers
+datasets
+huggingface_hub
+sentence-transformers
+yfinance
+google-genai>=1.51

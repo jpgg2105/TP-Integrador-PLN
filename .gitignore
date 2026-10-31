@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+# los embeddings se recalculan solos y pesan mucho
+data/cache/*.npy
